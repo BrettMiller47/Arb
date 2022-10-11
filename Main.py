@@ -5,7 +5,7 @@ from Functions import arbitrage_result
 import pandas
 
 
-# A dictionary to hold the teams, odds, and
+# A dictionary to hold the teams, odds, and wager placeholder
 starting_dict = {
     'Team1': [350, 'wager'],
     'Team2': [-120, 'wager'],
